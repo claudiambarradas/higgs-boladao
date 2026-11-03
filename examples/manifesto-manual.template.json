@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "requested_change": "Trocar a roupa por vestido preto com brilho, preservando identidade, cabelo e cenário.",
+  "video": "original.mp4",
+  "prompt_file": "prompt.txt",
+  "audio_policy": "preservar_original",
+  "analysis": {
+    "method": "temporal_sampling",
+    "duration_seconds": null,
+    "full_timeline_reviewed": false,
+    "notes": "MODELO DE PREENCHIMENTO PELO AGENTE: registrar cobertura de toda a duração e refinamentos; não marcar como revisado sem abrir as imagens."
+  },
+  "video_model": {
+    "id": null,
+    "schema_verified": false,
+    "verification_note": "Preencher após consultar o modelo disponível.",
+    "max_reference_images": null,
+    "max_prompt_chars": null,
+    "parameters": {}
+  },
+  "images": [
+    {
+      "label": "@imagem1",
+      "file": "referencias/imagem1.png",
+      "source_frame": "frames/frame-principal.png",
+      "timestamp_seconds": null,
+      "role": "Visual principal de frente",
+      "visual_review_passed": false,
+      "review_notes": "Preencher após inspecionar identidade, roupa, luz e composição.",
+      "aspect_adaptation_approved": false,
+      "aspect_adaptation_note": null
+    }
+  ]
+}

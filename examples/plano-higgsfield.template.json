@@ -1,0 +1,25 @@
+{
+  "mode": "automatic",
+  "operation": "model",
+  "id": null,
+  "schema_file": "schema-higgsfield.json",
+  "video": "original.mp4",
+  "images": [
+    "referencias/imagem1.png"
+  ],
+  "prompt_file": "prompt.txt",
+  "input_mapping": {
+    "video_flag": null,
+    "image_flag": null
+  },
+  "parameters": {},
+  "max_prompt_chars": null,
+  "review": {
+    "schema_verified": false,
+    "supports_video_edit": false,
+    "references_reviewed": false,
+    "source_properties_checked": false,
+    "input_mapping_verified": false,
+    "notes": "Preencher com a verificação REAL da operação, limites, duração, proporção, áudio e rótulos."
+  }
+}

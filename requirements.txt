@@ -1,0 +1,4 @@
+# Dependências dos utilitários locais. FFmpeg e FFprobe são instalados separadamente.
+# Faixas intencionais; registrar versões utilizadas ao homologar uma nova distribuição.
+Pillow>=11.0,<13
+requests>=2.32.3,<3

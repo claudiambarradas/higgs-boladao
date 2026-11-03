@@ -1,0 +1,4 @@
+interface:
+  display_name: "Higgs-boladao"
+  short_description: "Edite seu visual em vídeo com referências consistentes"
+  default_prompt: "Use $higgs-boladao para transformar o visual deste vídeo. Analise toda a linha do tempo, edite os frames necessários e entregue as imagens finais, o prompt com @video1 e @imagem1, e o mapa de upload. Não gere o vídeo sem autorização."
